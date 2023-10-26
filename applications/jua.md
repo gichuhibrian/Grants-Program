@@ -1,7 +1,7 @@
 # JUA DEX
 * **Team Name:** Jua
 * **Payment Address:** Ethereum USDC : 0x8Be27a27fE8B40EFB901c6991acc4D40B63C3087
-* **Status:** Level 1
+- **[Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels):** 1
 ## Project Overview :page_facing_up: 
 ### Overview
 ​JUA is building the easiest gateway for Africans into web3 through our onramp and offramp solution. We are building an EVM and substrate solution that will allow anyone in Africa to be able to buy, sell, and convert polkadot to any fiat currency using our jua escrow smart contracts. We aim to create the easiest way for any developer to be able to buy, sell, store and utilize Polkadot in AFRICA.  
