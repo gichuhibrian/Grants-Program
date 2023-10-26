@@ -1,6 +1,6 @@
 # JUA DEX
 * **Team Name:** Jua
-* **Payment Address:** Ethereum USDC : 0x8Be27a27fE8B40EFB901c6991acc4D40B63C3087
+* **Payment Address:** Bitcoin Network BTC : 16tic2kCdmE5YKCQSZZxQMABzHVqfu49z2
 - **[Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels):** 1
 ## Project Overview :page_facing_up: 
 ### Overview
